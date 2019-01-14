@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "yaml_framework_ios"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = 'A short description of yaml_framework_ios.'
   s.description  = <<-DESC
                   LEE_SS_LIB Http and Socks proxy based on Privoxy and Antinat.
